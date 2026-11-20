@@ -1,0 +1,13 @@
+{
+  "data_origin": "Illustrative synthetic values, not manuscript experimental results",
+  "split_id": "demo-validation-v1",
+  "feature_extraction": "pre-extracted features",
+  "predict_method": "predict_proba",
+  "warmups": 5,
+  "repetitions": 30,
+  "threads": 4,
+  "hardware": "DEMO ONLY: replace with actual hardware, RAM, OS, CPU governor, cooling and power conditions",
+  "software": "DEMO ONLY: record Python and model library versions",
+  "model_representative": "DEMO ONLY: record seed, configuration and artifact hashes",
+  "latency_scope": "DEMO ONLY: declare preprocessing, classifier, synchronization and exclusions"
+}

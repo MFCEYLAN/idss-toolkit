@@ -1,0 +1,4 @@
+model,validation_macro_f1,latency_ms_per_record,size_bytes
+ModelA,0.95,0.001,1000000
+ModelB,0.94,0.002,500000
+ModelC,0.90,0.0005,200000

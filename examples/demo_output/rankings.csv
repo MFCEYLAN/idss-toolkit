@@ -1,0 +1,7 @@
+dataset,task,platform,workload_id,model,validation_macro_f1,latency_ms_per_record,size_bytes,quality_component,latency_component,size_component,idss,rank
+SYNTHETIC_DEMO,binary,desktop,demo-validation-v1,ModelC,0.9,0.0005,200000,0.9473684210526316,1.0,1.0,0.9821390252341227,1
+SYNTHETIC_DEMO,binary,desktop,demo-validation-v1,ModelA,0.95,0.001,1000000,1.0,0.5,0.2,0.464158883361278,2
+SYNTHETIC_DEMO,binary,desktop,demo-validation-v1,ModelB,0.94,0.002,500000,0.9894736842105263,0.25,0.4,0.4625245075629733,3
+SYNTHETIC_DEMO,binary,edge,demo-validation-v1,ModelC,0.9,0.003,200000,0.9473684210526316,1.0,1.0,0.9821390252341227,1
+SYNTHETIC_DEMO,binary,edge,demo-validation-v1,ModelB,0.94,0.006,500000,0.9894736842105263,0.5,0.4,0.5827443631708505,2
+SYNTHETIC_DEMO,binary,edge,demo-validation-v1,ModelA,0.95,0.004,1000000,1.0,0.75,0.2,0.5313292845913056,3

@@ -1,0 +1,7 @@
+dataset,task,platform,workload_id,model,validation_macro_f1,latency_ms_per_record,size_bytes,selection_split
+SYNTHETIC_DEMO,binary,desktop,demo-validation-v1,ModelA,0.95,0.001,1000000,validation
+SYNTHETIC_DEMO,binary,desktop,demo-validation-v1,ModelB,0.94,0.002,500000,validation
+SYNTHETIC_DEMO,binary,desktop,demo-validation-v1,ModelC,0.90,0.0005,200000,validation
+SYNTHETIC_DEMO,binary,edge,demo-validation-v1,ModelA,0.95,0.004,1000000,validation
+SYNTHETIC_DEMO,binary,edge,demo-validation-v1,ModelB,0.94,0.006,500000,validation
+SYNTHETIC_DEMO,binary,edge,demo-validation-v1,ModelC,0.90,0.003,200000,validation
